@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.showNotes {
+  margin-top: 20px;
+}
+button {
+  margin-left: 15px;
+  background-color: aqua;
+}
